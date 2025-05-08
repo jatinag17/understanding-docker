@@ -10,4 +10,4 @@ RUN npm install
 
 EXPOSE 3001
 
-CMD ["node", "index"]
+CMD ["node","index"]
